@@ -1,0 +1,6 @@
+%h1 List of all Teams Games within season
+
+%ul
+  - @games.each do |game| 
+    %li= link_to game.match_date,
+    country_league_season_team_game_path(@country, @league, @season, @team, game)

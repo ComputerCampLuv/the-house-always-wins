@@ -1,0 +1,8 @@
+- @countries.each do |country| 
+  %p= country.name
+  %ul
+  - country.leagues.each do |league| 
+    %li= league.name
+    %ul
+      - league.seasons.each do |season| 
+        %li= link_to "#{season.start_year}/#{season.end_year}", game_path(season)  

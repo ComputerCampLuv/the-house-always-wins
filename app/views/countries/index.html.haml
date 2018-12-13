@@ -1,0 +1,5 @@
+%h1 List of all countries
+
+%ul
+  - @countries.each do |country| 
+    %li= link_to country.name, country

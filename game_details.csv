@@ -1,0 +1,235 @@
+home_team,away_team,home_team_goals,away_team_goals,match_date
+partick thistle,livingston,0,1,2018-05-20T15:30:00+00:00
+livingston,partick thistle,2,1,2018-05-17T19:45:00+00:00
+celtic,aberdeen,0,1,2018-05-13T12:30:00+00:00
+hibernian,rangers,5,5,2018-05-13T12:30:00+00:00
+kilmarnock,hearts,1,0,2018-05-13T12:30:00+00:00
+dundee fc,partick thistle,0,1,2018-05-12T15:00:00+00:00
+motherwell,hamilton,3,0,2018-05-12T15:00:00+00:00
+st. johnstone,ross county,1,1,2018-05-12T15:00:00+00:00
+livingston,dundee utd,1,1,2018-05-11T19:45:00+00:00
+celtic,kilmarnock,0,0,2018-05-09T19:45:00+00:00
+hearts,hibernian,2,1,2018-05-09T19:45:00+00:00
+aberdeen,rangers,1,1,2018-05-08T19:45:00+00:00
+hamilton,st. johnstone,1,2,2018-05-08T19:45:00+00:00
+partick thistle,motherwell,0,1,2018-05-08T19:45:00+00:00
+ross county,dundee fc,0,1,2018-05-08T19:45:00+00:00
+dundee utd,livingston,2,3,2018-05-07T19:45:00+00:00
+hearts,celtic,1,3,2018-05-06T12:15:00+00:00
+aberdeen,hibernian,0,0,2018-05-05T15:00:00+00:00
+rangers,kilmarnock,1,0,2018-05-05T15:00:00+00:00
+motherwell,st. johnstone,1,5,2018-05-05T15:00:00+00:00
+dundee fc,hamilton,1,0,2018-05-05T12:30:00+00:00
+partick thistle,ross county,1,1,2018-05-04T19:45:00+00:00
+dundee utd,dunfermline,2,1,2018-05-04T19:45:00+00:00
+dunfermline,dundee utd,0,0,2018-05-01T19:45:00+00:00
+celtic,rangers,5,0,2018-04-29T12:00:00+00:00
+hibernian,kilmarnock,5,3,2018-04-28T15:00:00+00:00
+motherwell,dundee fc,2,1,2018-04-28T15:00:00+00:00
+st. johnstone,partick thistle,1,1,2018-04-28T15:00:00+00:00
+hamilton,ross county,2,0,2018-04-28T12:30:00+00:00
+aberdeen,hearts,2,0,2018-04-27T19:45:00+00:00
+rangers,hearts,2,1,2018-04-22T12:30:00+00:00
+kilmarnock,aberdeen,0,2,2018-04-21T15:00:00+00:00
+dundee fc,st. johnstone,2,1,2018-04-21T15:00:00+00:00
+partick thistle,hamilton,2,1,2018-04-21T15:00:00+00:00
+ross county,motherwell,0,0,2018-04-21T15:00:00+00:00
+hibernian,celtic,2,1,2018-04-21T12:30:00+00:00
+hamilton,kilmarnock,1,2,2018-04-14T15:00:00+00:00
+hamilton,celtic,1,2,2018-04-08T12:30:00+00:00
+hearts,aberdeen,2,0,2018-04-07T15:00:00+00:00
+partick thistle,kilmarnock,0,1,2018-04-07T15:00:00+00:00
+rangers,dundee fc,4,0,2018-04-07T15:00:00+00:00
+ross county,hibernian,1,1,2018-04-07T15:00:00+00:00
+st. johnstone,motherwell,0,0,2018-04-07T15:00:00+00:00
+celtic,dundee fc,0,0,2018-04-04T19:45:00+00:00
+hibernian,hamilton,3,1,2018-04-03T19:45:00+00:00
+motherwell,aberdeen,0,2,2018-04-03T19:45:00+00:00
+ross county,partick thistle,4,0,2018-04-03T19:45:00+00:00
+dundee fc,hearts,1,1,2018-04-01T12:30:00+00:00
+aberdeen,st. johnstone,4,1,2018-03-31T15:00:00+00:00
+celtic,ross county,3,0,2018-03-31T15:00:00+00:00
+hibernian,partick thistle,2,0,2018-03-31T15:00:00+00:00
+kilmarnock,hamilton,2,0,2018-03-31T15:00:00+00:00
+motherwell,rangers,2,2,2018-03-31T12:30:00+00:00
+st. johnstone,hamilton,1,0,2018-03-28T19:45:00+00:00
+motherwell,celtic,0,0,2018-03-18T14:15:00+00:00
+aberdeen,dundee fc,1,0,2018-03-17T15:00:00+00:00
+hearts,partick thistle,3,0,2018-03-17T15:00:00+00:00
+rangers,kilmarnock,0,1,2018-03-17T15:00:00+00:00
+ross county,hamilton,2,2,2018-03-17T15:00:00+00:00
+st. johnstone,hibernian,1,1,2018-03-16T19:45:00+00:00
+rangers,celtic,2,3,2018-03-11T12:00:00+00:00
+dundee fc,st. johnstone,0,4,2018-03-10T15:00:00+00:00
+hamilton,motherwell,2,0,2018-03-10T15:00:00+00:00
+kilmarnock,ross county,3,2,2018-03-10T15:00:00+00:00
+partick thistle,aberdeen,0,0,2018-03-10T15:00:00+00:00
+hibernian,hearts,2,0,2018-03-09T19:45:00+00:00
+kilmarnock,st. johnstone,2,0,2018-03-07T19:45:00+00:00
+hearts,kilmarnock,1,1,2018-02-27T19:45:00+00:00
+st. johnstone,rangers,1,4,2018-02-27T19:45:00+00:00
+aberdeen,celtic,0,2,2018-02-25T13:30:00+00:00
+dundee fc,motherwell,0,1,2018-02-24T15:00:00+00:00
+hamilton,partick thistle,2,1,2018-02-24T15:00:00+00:00
+rangers,hearts,2,0,2018-02-24T15:00:00+00:00
+st. johnstone,ross county,2,0,2018-02-24T15:00:00+00:00
+kilmarnock,hibernian,2,2,2018-02-24T12:30:00+00:00
+celtic,st. johnstone,0,0,2018-02-18T15:00:00+00:00
+hamilton,rangers,3,5,2018-02-18T14:15:00+00:00
+hibernian,aberdeen,2,0,2018-02-17T15:00:00+00:00
+motherwell,kilmarnock,0,1,2018-02-17T15:00:00+00:00
+partick thistle,dundee fc,1,2,2018-02-17T15:00:00+00:00
+ross county,hearts,1,1,2018-02-17T12:30:00+00:00
+kilmarnock,dundee fc,3,2,2018-02-13T19:45:00+00:00
+motherwell,st. johnstone,2,0,2018-02-06T19:45:00+00:00
+partick thistle,rangers,0,2,2018-02-06T19:45:00+00:00
+aberdeen,hamilton,3,0,2018-02-03T15:00:00+00:00
+dundee fc,ross county,1,4,2018-02-03T15:00:00+00:00
+hearts,st. johnstone,1,0,2018-02-03T15:00:00+00:00
+motherwell,partick thistle,1,1,2018-02-03T15:00:00+00:00
+rangers,hibernian,1,2,2018-02-03T15:00:00+00:00
+kilmarnock,celtic,1,0,2018-02-03T12:30:00+00:00
+hibernian,motherwell,2,1,2018-01-31T19:45:00+00:00
+ross county,aberdeen,2,4,2018-01-31T19:45:00+00:00
+celtic,hearts,3,1,2018-01-30T19:45:00+00:00
+ross county,rangers,1,2,2018-01-28T14:00:00+00:00
+aberdeen,kilmarnock,3,1,2018-01-27T15:00:00+00:00
+celtic,hibernian,1,0,2018-01-27T15:00:00+00:00
+hamilton,dundee fc,1,2,2018-01-27T15:00:00+00:00
+hearts,motherwell,1,1,2018-01-27T15:00:00+00:00
+st. johnstone,partick thistle,1,3,2018-01-27T15:00:00+00:00
+dundee fc,hibernian,0,1,2018-01-24T19:45:00+00:00
+hamilton,hearts,0,3,2018-01-24T19:45:00+00:00
+motherwell,ross county,2,0,2018-01-24T19:45:00+00:00
+rangers,aberdeen,2,0,2018-01-24T19:45:00+00:00
+partick thistle,celtic,1,2,2018-01-23T19:45:00+00:00
+aberdeen,hearts,0,0,2017-12-30T15:00:00+00:00
+hibernian,kilmarnock,1,1,2017-12-30T15:00:00+00:00
+motherwell,hamilton,1,3,2017-12-30T15:00:00+00:00
+partick thistle,ross county,2,0,2017-12-30T15:00:00+00:00
+st. johnstone,dundee fc,0,2,2017-12-30T15:00:00+00:00
+celtic,rangers,0,0,2017-12-30T12:00:00+00:00
+aberdeen,partick thistle,1,0,2017-12-27T19:45:00+00:00
+hearts,hibernian,0,0,2017-12-27T19:45:00+00:00
+rangers,motherwell,2,0,2017-12-27T19:45:00+00:00
+ross county,st. johnstone,1,1,2017-12-27T19:45:00+00:00
+dundee fc,celtic,0,2,2017-12-26T12:30:00+00:00
+celtic,aberdeen,3,0,2017-12-23T15:00:00+00:00
+hibernian,ross county,2,1,2017-12-23T15:00:00+00:00
+motherwell,dundee fc,1,1,2017-12-23T15:00:00+00:00
+partick thistle,hamilton,1,0,2017-12-23T15:00:00+00:00
+st. johnstone,hearts,0,0,2017-12-23T15:00:00+00:00
+kilmarnock,rangers,2,1,2017-12-23T12:30:00+00:00
+celtic,partick thistle,2,0,2017-12-20T19:45:00+00:00
+hearts,celtic,4,0,2017-12-17T12:30:00+00:00
+dundee fc,partick thistle,3,0,2017-12-16T15:00:00+00:00
+hamilton,ross county,3,2,2017-12-16T15:00:00+00:00
+kilmarnock,motherwell,1,0,2017-12-16T15:00:00+00:00
+rangers,st. johnstone,1,3,2017-12-16T15:00:00+00:00
+aberdeen,hibernian,4,1,2017-12-16T12:30:00+00:00
+celtic,hamilton,3,1,2017-12-13T19:45:00+00:00
+hibernian,rangers,1,2,2017-12-13T19:45:00+00:00
+partick thistle,motherwell,3,2,2017-12-13T19:45:00+00:00
+st. johnstone,aberdeen,0,3,2017-12-13T19:45:00+00:00
+hearts,dundee fc,2,0,2017-12-12T19:45:00+00:00
+ross county,kilmarnock,2,2,2017-12-12T19:45:00+00:00
+hibernian,celtic,2,2,2017-12-10T12:30:00+00:00
+hamilton,st. johnstone,0,1,2017-12-09T15:00:00+00:00
+hearts,motherwell,1,0,2017-12-09T15:00:00+00:00
+kilmarnock,partick thistle,5,1,2017-12-09T15:00:00+00:00
+rangers,ross county,2,1,2017-12-09T15:00:00+00:00
+dundee fc,aberdeen,0,1,2017-12-08T19:45:00+00:00
+aberdeen,rangers,1,2,2017-12-03T12:30:00+00:00
+celtic,motherwell,5,1,2017-12-02T15:00:00+00:00
+hearts,hamilton,1,1,2017-12-02T15:00:00+00:00
+partick thistle,hibernian,0,1,2017-12-02T15:00:00+00:00
+ross county,dundee fc,0,2,2017-12-02T15:00:00+00:00
+st. johnstone,kilmarnock,1,2,2017-12-02T15:00:00+00:00
+motherwell,celtic,1,1,2017-11-29T19:45:00+00:00
+rangers,aberdeen,3,0,2017-11-29T19:45:00+00:00
+kilmarnock,aberdeen,1,3,2017-11-26T12:30:00+00:00
+hamilton,hibernian,1,1,2017-11-25T15:00:00+00:00
+hearts,ross county,0,0,2017-11-25T15:00:00+00:00
+dundee fc,rangers,2,1,2017-11-24T19:45:00+00:00
+hearts,partick thistle,1,1,2017-11-19T15:00:00+00:00
+aberdeen,motherwell,0,2,2017-11-18T15:00:00+00:00
+dundee fc,kilmarnock,0,0,2017-11-18T15:00:00+00:00
+hibernian,st. johnstone,1,2,2017-11-18T15:00:00+00:00
+rangers,hamilton,0,2,2017-11-18T15:00:00+00:00
+ross county,celtic,0,1,2017-11-18T12:30:00+00:00
+hearts,kilmarnock,1,2,2017-11-05T15:00:00+00:00
+hamilton,aberdeen,2,2,2017-11-04T15:00:00+00:00
+hibernian,dundee fc,2,1,2017-11-04T15:00:00+00:00
+rangers,partick thistle,3,0,2017-11-04T15:00:00+00:00
+ross county,motherwell,3,2,2017-11-04T15:00:00+00:00
+st. johnstone,celtic,0,4,2017-11-04T12:30:00+00:00
+kilmarnock,hibernian,0,3,2017-10-31T19:45:00+00:00
+aberdeen,ross county,2,1,2017-10-28T15:00:00+00:00
+celtic,kilmarnock,1,1,2017-10-28T15:00:00+00:00
+dundee fc,hamilton,1,3,2017-10-28T15:00:00+00:00
+motherwell,hibernian,0,1,2017-10-28T15:00:00+00:00
+partick thistle,st. johnstone,1,0,2017-10-28T15:00:00+00:00
+hearts,rangers,1,3,2017-10-28T12:30:00+00:00
+aberdeen,celtic,0,3,2017-10-25T19:45:00+00:00
+dundee fc,motherwell,0,1,2017-10-25T19:45:00+00:00
+rangers,kilmarnock,1,1,2017-10-25T19:45:00+00:00
+hamilton,partick thistle,0,0,2017-10-24T19:45:00+00:00
+hibernian,hearts,1,0,2017-10-24T19:45:00+00:00
+st. johnstone,ross county,0,0,2017-10-24T19:45:00+00:00
+hearts,st. johnstone,1,0,2017-10-21T15:00:00+00:00
+partick thistle,dundee fc,2,1,2017-10-21T15:00:00+00:00
+ross county,hamilton,2,1,2017-10-21T15:00:00+00:00
+celtic,dundee fc,1,0,2017-10-14T15:00:00+00:00
+hamilton,motherwell,1,2,2017-10-14T15:00:00+00:00
+hibernian,aberdeen,0,1,2017-10-14T15:00:00+00:00
+partick thistle,kilmarnock,0,2,2017-10-14T15:00:00+00:00
+ross county,hearts,1,2,2017-10-14T15:00:00+00:00
+st. johnstone,rangers,0,3,2017-10-13T19:45:00+00:00
+aberdeen,st. johnstone,3,0,2017-09-30T15:00:00+00:00
+celtic,hibernian,2,2,2017-09-30T15:00:00+00:00
+dundee fc,hearts,2,1,2017-09-30T15:00:00+00:00
+kilmarnock,ross county,0,2,2017-09-30T15:00:00+00:00
+motherwell,partick thistle,3,0,2017-09-30T15:00:00+00:00
+hamilton,rangers,1,4,2017-09-29T19:45:00+00:00
+motherwell,aberdeen,0,1,2017-09-24T12:15:00+00:00
+partick thistle,hearts,1,1,2017-09-23T16:00:00+00:00
+kilmarnock,dundee fc,1,1,2017-09-23T15:00:00+00:00
+ross county,hibernian,0,1,2017-09-23T15:00:00+00:00
+st. johnstone,hamilton,2,1,2017-09-23T15:00:00+00:00
+rangers,celtic,0,2,2017-09-23T12:00:00+00:00
+aberdeen,kilmarnock,1,1,2017-09-16T15:00:00+00:00
+celtic,ross county,4,0,2017-09-16T15:00:00+00:00
+dundee fc,st. johnstone,3,2,2017-09-16T15:00:00+00:00
+hamilton,hearts,1,2,2017-09-16T15:00:00+00:00
+hibernian,motherwell,2,2,2017-09-16T15:00:00+00:00
+partick thistle,rangers,2,2,2017-09-15T19:45:00+00:00
+hearts,aberdeen,0,0,2017-09-09T15:00:00+00:00
+motherwell,kilmarnock,2,0,2017-09-09T15:00:00+00:00
+rangers,dundee fc,4,1,2017-09-09T15:00:00+00:00
+ross county,partick thistle,1,1,2017-09-09T15:00:00+00:00
+st. johnstone,hibernian,1,1,2017-09-09T15:00:00+00:00
+hamilton,celtic,1,4,2017-09-08T19:45:00+00:00
+ross county,rangers,1,3,2017-08-27T15:00:00+00:00
+dundee fc,hibernian,1,1,2017-08-27T12:30:00+00:00
+celtic,st. johnstone,1,1,2017-08-26T15:00:00+00:00
+kilmarnock,hamilton,2,2,2017-08-26T15:00:00+00:00
+motherwell,hearts,2,1,2017-08-26T15:00:00+00:00
+partick thistle,aberdeen,3,4,2017-08-26T15:00:00+00:00
+aberdeen,dundee fc,2,1,2017-08-19T15:00:00+00:00
+hibernian,hamilton,1,3,2017-08-19T15:00:00+00:00
+motherwell,ross county,2,0,2017-08-19T15:00:00+00:00
+rangers,hearts,0,0,2017-08-19T15:00:00+00:00
+st. johnstone,partick thistle,1,0,2017-08-19T15:00:00+00:00
+kilmarnock,celtic,0,2,2017-08-19T12:30:00+00:00
+hamilton,dundee fc,3,0,2017-08-12T15:00:00+00:00
+kilmarnock,hearts,0,1,2017-08-12T15:00:00+00:00
+rangers,hibernian,2,3,2017-08-12T15:00:00+00:00
+ross county,aberdeen,1,2,2017-08-12T15:00:00+00:00
+st. johnstone,motherwell,4,1,2017-08-12T15:00:00+00:00
+partick thistle,celtic,0,1,2017-08-11T19:45:00+00:00
+aberdeen,hamilton,2,0,2017-08-06T15:00:00+00:00
+motherwell,rangers,1,2,2017-08-06T13:30:00+00:00
+dundee fc,ross county,1,2,2017-08-05T15:00:00+00:00
+hibernian,partick thistle,3,1,2017-08-05T15:00:00+00:00
+kilmarnock,st. johnstone,1,2,2017-08-05T15:00:00+00:00
+celtic,hearts,4,1,2017-08-05T12:30:00+00:00

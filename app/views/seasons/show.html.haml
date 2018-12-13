@@ -1,0 +1,5 @@
+%h1 List of all Seasons Teams
+
+%ul
+  - @season.teams.each do |team| 
+    %li= link_to team.name, country_league_season_team_path(@season.league.country, @season.league, @season, team)

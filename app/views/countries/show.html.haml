@@ -1,0 +1,5 @@
+%h1 List of all Countries Leagues
+
+%ul
+  - @country.leagues.each do |league| 
+    %li= link_to league.name, country_league_path(@country, league)
